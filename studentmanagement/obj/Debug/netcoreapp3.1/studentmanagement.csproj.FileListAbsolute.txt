@@ -1,0 +1,11 @@
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.exe
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.deps.json
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.runtimeconfig.json
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.runtimeconfig.dev.json
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.dll
+C:\Users\Kiara\Desktop\studentmanagement\bin\Debug\netcoreapp3.1\studentmanagement.pdb
+C:\Users\Kiara\Desktop\studentmanagement\obj\Debug\netcoreapp3.1\studentmanagement.csprojAssemblyReference.cache
+C:\Users\Kiara\Desktop\studentmanagement\obj\Debug\netcoreapp3.1\studentmanagement.AssemblyInfoInputs.cache
+C:\Users\Kiara\Desktop\studentmanagement\obj\Debug\netcoreapp3.1\studentmanagement.AssemblyInfo.cs
+C:\Users\Kiara\Desktop\studentmanagement\obj\Debug\netcoreapp3.1\studentmanagement.dll
+C:\Users\Kiara\Desktop\studentmanagement\obj\Debug\netcoreapp3.1\studentmanagement.pdb
